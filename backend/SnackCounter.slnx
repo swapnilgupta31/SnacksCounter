@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SnackCounter.Api/SnackCounter.Api.csproj" />
+  <Project Path="SnackCounter.Core/SnackCounter.Core.csproj" />
+  <Project Path="SnackCounter.Infrastructure/SnackCounter.Infrastructure.csproj" />
+  <Project Path="SnackCounter.Tests/SnackCounter.Tests.csproj" />
+</Solution>

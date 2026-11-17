@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "SnackCounter.Core/1.0.0": {
+        "runtime": {
+          "SnackCounter.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SnackCounter.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
